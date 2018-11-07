@@ -1,0 +1,244 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:2:1-66:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\3ee2cbb4e6abeaa00f707f43be5e27ab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\1b83eeebd98568bb299ae58309282bd2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\f790f16d64b3d77e56fcc8ee72856927\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\bb4674296b348423417cbdf815a52616\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\5c8eb82691d600822029e66898439a02\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\161be24b4175811f2c0a122bc7daa015\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\d305196b832d16c998c158ea658bca3d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\bd5a524d4b6af046c173a9d7d9ddc970\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\271ce622dca57bb6b385d1e3cd3cd07c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\62d28061e44b97623d0f7dc8b5c47f5d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\b8f99b6fa7fc60d11ea2a71d55d9bd86\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\3f122dad4a08671557f78978fe07c338\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\555fc5cb81cbbd060280c08eb618051e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\a2d898e7458d5f8bf768b241586c4020\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\a1d390e46d593a9284ba19c9c9cc4174\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\07f07c19c03c26c96a4aa22dac529277\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\30935a1cb4d4c3b41d5e458dca89c0d6\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\f1fd60c4d0ba536c74ee064a58cb6346\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d18314986c4f22aba9d0e6416a7958a2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\3b44476ce6c0f5f8f7b283fdbbf4ede7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\7937468703e9866b2e01c932752c2407\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\aa5066ba8a2e45daee1073dca353c00b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\c03bacd097e15cd7854975c0fece57e2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\9e1ce3335db580ae0e68b12fe92c23e9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\608f0386227fa3fa674d8deeb9d5c2d3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8478174d467ed2d38d0a0e99f55f9504\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\7e198ac7952d1649325f2e14ff35ec72\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:2:1-66:12
+	package
+		ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:4:5-29
+		INJECTED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:2:1-66:12
+		INJECTED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:2:1-66:12
+		INJECTED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:6:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:7:5-74
+	android:name
+		ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:7:22-71
+uses-permission#com.samsung.accessory.permission.ACCESSORY_FRAMEWORK
+ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:8:5-92
+	android:name
+		ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:8:22-89
+uses-permission#com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY
+ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:9:5-117
+	android:name
+		ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:9:22-114
+uses-permission#com.samsung.wmanager.ENABLE_NOTIFICATION
+ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:10:22-77
+uses-permission#com.samsung.WATCH_APP_TYPE.Companion
+ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:11:22-73
+application
+ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:13:5-64:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\1b83eeebd98568bb299ae58309282bd2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\1b83eeebd98568bb299ae58309282bd2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\07f07c19c03c26c96a4aa22dac529277\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\07f07c19c03c26c96a4aa22dac529277\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\30935a1cb4d4c3b41d5e458dca89c0d6\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\30935a1cb4d4c3b41d5e458dca89c0d6\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\07f07c19c03c26c96a4aa22dac529277\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:16:9-41
+	tools:ignore
+		ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:17:9-60
+	android:icon
+		ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:14:9-35
+activity#kr.ac.inha.nsl.MainActivity
+ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:18:9-28:20
+	android:screenOrientation
+		ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:21:13-49
+	android:label
+		ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:20:13-45
+	android:theme
+		ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:22:13-44
+	android:name
+		ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:19:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:26:27-74
+activity#kr.ac.inha.nsl.ConfigScreen
+ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:29:9-31:47
+	android:theme
+		ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:31:13-44
+	android:name
+		ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:30:13-41
+activity#kr.ac.inha.nsl.DbViewActivity
+ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:32:9-34:47
+	android:theme
+		ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:34:13-44
+	android:name
+		ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:33:13-43
+meta-data#AccessoryServicesLocation
+ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:36:9-38:62
+	android:value
+		ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:38:13-59
+	android:name
+		ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:37:13-53
+meta-data#GearAppType
+ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:39:9-41:35
+	android:value
+		ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:41:13-32
+	android:name
+		ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:40:13-39
+service#kr.ac.inha.nsl.ConsumerService
+ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:43:9-52
+	android:name
+		ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:43:18-49
+receiver#com.samsung.android.sdk.accessory.RegisterUponInstallReceiver
+ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:45:9-51:20
+	android:permission
+		ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:47:13-39
+	android:name
+		ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:46:13-89
+intent-filter#action:name:com.samsung.accessory.action.REGISTER_AGENT
+ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:48:13-50:29
+action#com.samsung.accessory.action.REGISTER_AGENT
+ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:49:17-86
+	android:name
+		ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:49:25-83
+receiver#com.samsung.android.sdk.accessory.ServiceConnectionIndicationBroadcastReceiver
+ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:52:9-58:20
+	android:permission
+		ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:54:13-39
+	android:name
+		ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:53:13-106
+intent-filter#action:name:com.samsung.accessory.action.SERVICE_CONNECTION_REQUESTED
+ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:55:13-57:29
+action#com.samsung.accessory.action.SERVICE_CONNECTION_REQUESTED
+ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:56:17-100
+	android:name
+		ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:56:25-97
+receiver#kr.ac.inha.nsl.MainActivity$ConsumerServiceReceiver
+ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:59:9-63:42
+	android:enabled
+		ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:61:13-35
+	android:exported
+		ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:62:13-36
+	android:permission
+		ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:63:13-39
+	android:name
+		ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml:60:13-65
+uses-sdk
+INJECTED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\3ee2cbb4e6abeaa00f707f43be5e27ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\3ee2cbb4e6abeaa00f707f43be5e27ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\1b83eeebd98568bb299ae58309282bd2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\1b83eeebd98568bb299ae58309282bd2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\f790f16d64b3d77e56fcc8ee72856927\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\f790f16d64b3d77e56fcc8ee72856927\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\bb4674296b348423417cbdf815a52616\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\bb4674296b348423417cbdf815a52616\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\5c8eb82691d600822029e66898439a02\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\5c8eb82691d600822029e66898439a02\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\161be24b4175811f2c0a122bc7daa015\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\161be24b4175811f2c0a122bc7daa015\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\d305196b832d16c998c158ea658bca3d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\d305196b832d16c998c158ea658bca3d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\bd5a524d4b6af046c173a9d7d9ddc970\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\bd5a524d4b6af046c173a9d7d9ddc970\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\271ce622dca57bb6b385d1e3cd3cd07c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\271ce622dca57bb6b385d1e3cd3cd07c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\62d28061e44b97623d0f7dc8b5c47f5d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\62d28061e44b97623d0f7dc8b5c47f5d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\b8f99b6fa7fc60d11ea2a71d55d9bd86\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\b8f99b6fa7fc60d11ea2a71d55d9bd86\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\3f122dad4a08671557f78978fe07c338\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\3f122dad4a08671557f78978fe07c338\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\555fc5cb81cbbd060280c08eb618051e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\555fc5cb81cbbd060280c08eb618051e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\a2d898e7458d5f8bf768b241586c4020\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\a2d898e7458d5f8bf768b241586c4020\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\a1d390e46d593a9284ba19c9c9cc4174\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\a1d390e46d593a9284ba19c9c9cc4174\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\07f07c19c03c26c96a4aa22dac529277\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\07f07c19c03c26c96a4aa22dac529277\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\30935a1cb4d4c3b41d5e458dca89c0d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\30935a1cb4d4c3b41d5e458dca89c0d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\f1fd60c4d0ba536c74ee064a58cb6346\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\f1fd60c4d0ba536c74ee064a58cb6346\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d18314986c4f22aba9d0e6416a7958a2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d18314986c4f22aba9d0e6416a7958a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\3b44476ce6c0f5f8f7b283fdbbf4ede7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\3b44476ce6c0f5f8f7b283fdbbf4ede7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\7937468703e9866b2e01c932752c2407\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\7937468703e9866b2e01c932752c2407\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\aa5066ba8a2e45daee1073dca353c00b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\aa5066ba8a2e45daee1073dca353c00b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\c03bacd097e15cd7854975c0fece57e2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\c03bacd097e15cd7854975c0fece57e2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\9e1ce3335db580ae0e68b12fe92c23e9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\9e1ce3335db580ae0e68b12fe92c23e9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\608f0386227fa3fa674d8deeb9d5c2d3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\608f0386227fa3fa674d8deeb9d5c2d3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8478174d467ed2d38d0a0e99f55f9504\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8478174d467ed2d38d0a0e99f55f9504\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\7e198ac7952d1649325f2e14ff35ec72\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Kevin\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\7e198ac7952d1649325f2e14ff35ec72\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kevin\Desktop\Positive Computing\#Sample\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\AndroidManifest.xml
