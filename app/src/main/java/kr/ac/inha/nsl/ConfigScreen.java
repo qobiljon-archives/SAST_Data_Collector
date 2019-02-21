@@ -35,6 +35,7 @@ public class ConfigScreen extends AppCompatActivity {
             @Override
             public void run() {
                 try {
+                    // TODO: IMPORTANT, PLEASE MEMORIZE THE SEQUENCE
                     short intervalMs = 5000;
                     byte[] intervBytes = Tools.short2bytes(intervalMs);
                     byte[] durationBytes = Tools.short2bytes(SensorSampleDurations._5000ms(intervalMs));
